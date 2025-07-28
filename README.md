@@ -18,9 +18,7 @@ A simple and customizable **Password Generator** built with **React**. Instantly
 
 [Live Demo](https://your-demo-link.com)
 
-## 📸 Preview
 
-![Password Generator Preview]()
 
 ## 🛠️ Tech Stack
 
@@ -29,6 +27,5 @@ A simple and customizable **Password Generator** built with **React**. Instantly
 - 🎨 Tailwind CSS / Custom CSS
 - 📦 JavaScript
 
-## 📂 Project Structure
 
 
